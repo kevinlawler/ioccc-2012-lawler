@@ -2,8 +2,8 @@ ioccc-2012-lawler
 =================
 
 This was my entry for the 2012 International Obfuscated C Code Contest. It was
-not selected as a winner. I believe the techniques it uses are novel, so I am
-sharing the entry in case anyone finds the techniques interesting.
+not picked as a winner. I believe the techniques it uses are novel, so I am
+sharing the entry in case anyone finds it interesting.
 
 Tips for running the program:
 
