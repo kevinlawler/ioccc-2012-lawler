@@ -1,20 +1,3 @@
-ioccc-2012-lawler
-=================
-
-This was my entry for the 2012 International Obfuscated C Code Contest. It was
-not selected as a winner. I believe the techniques it uses are novel, so I am
-sharing it in case anyone may find them interesting.
-
-Tips for running the program:
-
-1. Don't forget to comment out the `sleep` line before compiling.  
-1. To query my server's IP instead of the IOCCC's, use the replacement line
-
-```
-  i[]={[5]=8276,[4]=17735,[0]=2,20480,-32338,5603};
-```
-
-
 ## Author's Comments:
 
 Magic Numbers / Future Winners
@@ -116,5 +99,4 @@ Solaris. There are no ill effects. This method works correctly on all systems.
 This code is not compatible with big-endian systems; however, it is probably
 time to relax that guideline since chips made in 2011 are primarily
 little-endian or bi-endian.
-
 
